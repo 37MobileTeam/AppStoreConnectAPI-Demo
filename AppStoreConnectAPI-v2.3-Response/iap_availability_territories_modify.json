@@ -1,0 +1,23 @@
+{
+    "data": {
+        "type": "inAppPurchaseAvailabilities",
+        "id": "6444653105",
+        "attributes": {
+            "availableInNewTerritories": true
+        },
+        "relationships": {
+            "availableTerritories": {
+                "links": {
+                    "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchaseAvailabilities/6444653105/relationships/availableTerritories",
+                    "related": "https://api.appstoreconnect.apple.com/v1/inAppPurchaseAvailabilities/6444653105/availableTerritories"
+                }
+            }
+        },
+        "links": {
+            "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchaseAvailabilities/6444653105"
+        }
+    },
+    "links": {
+        "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchaseAvailabilities"
+    }
+}

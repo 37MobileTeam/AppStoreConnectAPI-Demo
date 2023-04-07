@@ -1,0 +1,1763 @@
+{
+    "data": [
+        {
+            "type": "territories",
+            "id": "AFG",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/AFG"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "AGO",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/AGO"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "AIA",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/AIA"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "ALB",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/ALB"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "ARE",
+            "attributes": {
+                "currency": "AED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/ARE"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "ARG",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/ARG"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "ARM",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/ARM"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "ATG",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/ATG"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "AUS",
+            "attributes": {
+                "currency": "AUD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/AUS"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "AUT",
+            "attributes": {
+                "currency": "EUR"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/AUT"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "AZE",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/AZE"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "BEL",
+            "attributes": {
+                "currency": "EUR"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/BEL"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "BEN",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/BEN"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "BFA",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/BFA"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "BGR",
+            "attributes": {
+                "currency": "BGN"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/BGR"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "BHR",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/BHR"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "BHS",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/BHS"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "BIH",
+            "attributes": {
+                "currency": "EUR"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/BIH"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "BLR",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/BLR"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "BLZ",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/BLZ"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "BMU",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/BMU"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "BOL",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/BOL"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "BRA",
+            "attributes": {
+                "currency": "BRL"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/BRA"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "BRB",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/BRB"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "BRN",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/BRN"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "BTN",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/BTN"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "BWA",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/BWA"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "CAN",
+            "attributes": {
+                "currency": "CAD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/CAN"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "CHE",
+            "attributes": {
+                "currency": "CHF"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/CHE"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "CHL",
+            "attributes": {
+                "currency": "CLP"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/CHL"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "CHN",
+            "attributes": {
+                "currency": "CNY"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/CHN"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "CIV",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/CIV"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "CMR",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/CMR"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "COD",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/COD"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "COG",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/COG"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "COL",
+            "attributes": {
+                "currency": "COP"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/COL"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "CPV",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/CPV"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "CRI",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/CRI"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "CYM",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/CYM"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "CYP",
+            "attributes": {
+                "currency": "EUR"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/CYP"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "CZE",
+            "attributes": {
+                "currency": "CZK"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/CZE"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "DEU",
+            "attributes": {
+                "currency": "EUR"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/DEU"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "DMA",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/DMA"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "DNK",
+            "attributes": {
+                "currency": "DKK"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/DNK"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "DOM",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/DOM"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "DZA",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/DZA"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "ECU",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/ECU"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "EGY",
+            "attributes": {
+                "currency": "EGP"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/EGY"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "ESP",
+            "attributes": {
+                "currency": "EUR"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/ESP"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "EST",
+            "attributes": {
+                "currency": "EUR"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/EST"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "FIN",
+            "attributes": {
+                "currency": "EUR"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/FIN"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "FJI",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/FJI"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "FRA",
+            "attributes": {
+                "currency": "EUR"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/FRA"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "FSM",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/FSM"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "GAB",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/GAB"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "GBR",
+            "attributes": {
+                "currency": "GBP"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/GBR"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "GEO",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/GEO"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "GHA",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/GHA"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "GMB",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/GMB"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "GNB",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/GNB"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "GRC",
+            "attributes": {
+                "currency": "EUR"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/GRC"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "GRD",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/GRD"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "GTM",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/GTM"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "GUY",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/GUY"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "HKG",
+            "attributes": {
+                "currency": "HKD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/HKG"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "HND",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/HND"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "HRV",
+            "attributes": {
+                "currency": "EUR"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/HRV"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "HUN",
+            "attributes": {
+                "currency": "HUF"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/HUN"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "IDN",
+            "attributes": {
+                "currency": "IDR"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/IDN"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "IND",
+            "attributes": {
+                "currency": "INR"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/IND"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "IRL",
+            "attributes": {
+                "currency": "EUR"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/IRL"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "IRQ",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/IRQ"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "ISL",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/ISL"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "ISR",
+            "attributes": {
+                "currency": "ILS"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/ISR"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "ITA",
+            "attributes": {
+                "currency": "EUR"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/ITA"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "JAM",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/JAM"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "JOR",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/JOR"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "JPN",
+            "attributes": {
+                "currency": "JPY"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/JPN"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "KAZ",
+            "attributes": {
+                "currency": "KZT"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/KAZ"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "KEN",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/KEN"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "KGZ",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/KGZ"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "KHM",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/KHM"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "KNA",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/KNA"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "KOR",
+            "attributes": {
+                "currency": "KRW"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/KOR"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "KWT",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/KWT"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "LAO",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/LAO"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "LBN",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/LBN"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "LBR",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/LBR"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "LBY",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/LBY"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "LCA",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/LCA"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "LKA",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/LKA"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "LTU",
+            "attributes": {
+                "currency": "EUR"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/LTU"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "LUX",
+            "attributes": {
+                "currency": "EUR"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/LUX"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "LVA",
+            "attributes": {
+                "currency": "EUR"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/LVA"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "MAC",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/MAC"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "MAR",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/MAR"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "MDA",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/MDA"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "MDG",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/MDG"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "MDV",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/MDV"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "MEX",
+            "attributes": {
+                "currency": "MXN"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/MEX"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "MKD",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/MKD"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "MLI",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/MLI"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "MLT",
+            "attributes": {
+                "currency": "EUR"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/MLT"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "MMR",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/MMR"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "MNE",
+            "attributes": {
+                "currency": "EUR"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/MNE"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "MNG",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/MNG"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "MOZ",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/MOZ"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "MRT",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/MRT"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "MSR",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/MSR"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "MUS",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/MUS"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "MWI",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/MWI"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "MYS",
+            "attributes": {
+                "currency": "MYR"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/MYS"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "NAM",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/NAM"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "NER",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/NER"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "NGA",
+            "attributes": {
+                "currency": "NGN"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/NGA"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "NIC",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/NIC"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "NLD",
+            "attributes": {
+                "currency": "EUR"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/NLD"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "NOR",
+            "attributes": {
+                "currency": "NOK"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/NOR"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "NPL",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/NPL"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "NRU",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/NRU"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "NZL",
+            "attributes": {
+                "currency": "NZD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/NZL"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "OMN",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/OMN"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "PAK",
+            "attributes": {
+                "currency": "PKR"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/PAK"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "PAN",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/PAN"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "PER",
+            "attributes": {
+                "currency": "PEN"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/PER"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "PHL",
+            "attributes": {
+                "currency": "PHP"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/PHL"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "PLW",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/PLW"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "PNG",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/PNG"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "POL",
+            "attributes": {
+                "currency": "PLN"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/POL"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "PRT",
+            "attributes": {
+                "currency": "EUR"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/PRT"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "PRY",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/PRY"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "QAT",
+            "attributes": {
+                "currency": "QAR"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/QAT"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "ROU",
+            "attributes": {
+                "currency": "RON"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/ROU"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "RUS",
+            "attributes": {
+                "currency": "RUB"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/RUS"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "RWA",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/RWA"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "SAU",
+            "attributes": {
+                "currency": "SAR"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/SAU"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "SEN",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/SEN"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "SGP",
+            "attributes": {
+                "currency": "SGD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/SGP"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "SLB",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/SLB"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "SLE",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/SLE"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "SLV",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/SLV"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "SRB",
+            "attributes": {
+                "currency": "EUR"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/SRB"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "STP",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/STP"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "SUR",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/SUR"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "SVK",
+            "attributes": {
+                "currency": "EUR"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/SVK"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "SVN",
+            "attributes": {
+                "currency": "EUR"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/SVN"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "SWE",
+            "attributes": {
+                "currency": "SEK"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/SWE"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "SWZ",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/SWZ"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "SYC",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/SYC"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "TCA",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/TCA"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "TCD",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/TCD"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "THA",
+            "attributes": {
+                "currency": "THB"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/THA"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "TJK",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/TJK"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "TKM",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/TKM"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "TON",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/TON"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "TTO",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/TTO"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "TUN",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/TUN"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "TUR",
+            "attributes": {
+                "currency": "TRY"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/TUR"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "TWN",
+            "attributes": {
+                "currency": "TWD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/TWN"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "TZA",
+            "attributes": {
+                "currency": "TZS"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/TZA"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "UGA",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/UGA"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "UKR",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/UKR"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "URY",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/URY"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "USA",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/USA"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "UZB",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/UZB"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "VCT",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/VCT"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "VEN",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/VEN"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "VGB",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/VGB"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "VNM",
+            "attributes": {
+                "currency": "VND"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/VNM"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "VUT",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/VUT"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "XKS",
+            "attributes": {
+                "currency": "EUR"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/XKS"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "YEM",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/YEM"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "ZAF",
+            "attributes": {
+                "currency": "ZAR"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/ZAF"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "ZMB",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/ZMB"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "ZWE",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/ZWE"
+            }
+        }
+    ],
+    "links": {
+        "self": "https://api.appstoreconnect.apple.com/v1/territories?limit=200"
+    },
+    "meta": {
+        "paging": {
+            "total": 175,
+            "limit": 200
+        }
+    }
+}

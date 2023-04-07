@@ -1,0 +1,558 @@
+{
+    "data": {
+        "type": "appPriceSchedules",
+        "id": "1240856775",
+        "relationships": {
+            "app": {
+                "data": {
+                    "type": "apps",
+                    "id": "1240856775"
+                }
+            },
+            "automaticPrices": {
+                "meta": {
+                    "paging": {
+                        "total": 170,
+                        "limit": 10
+                    }
+                },
+                "data": [
+                    {
+                        "type": "appPrices",
+                        "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJBRkciLCJwIjoiMTAwMTAiLCJzZCI6MC4wLCJlZCI6MC4wfQ"
+                    },
+                    {
+                        "type": "appPrices",
+                        "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJBR08iLCJwIjoiMTAwMTAiLCJzZCI6MC4wLCJlZCI6MC4wfQ"
+                    },
+                    {
+                        "type": "appPrices",
+                        "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJBSUEiLCJwIjoiMTAwMTAiLCJzZCI6MC4wLCJlZCI6MC4wfQ"
+                    },
+                    {
+                        "type": "appPrices",
+                        "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJBTEIiLCJwIjoiMTAwMTAiLCJzZCI6MC4wLCJlZCI6MC4wfQ"
+                    },
+                    {
+                        "type": "appPrices",
+                        "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJBUkUiLCJwIjoiMTAwMDgiLCJzZCI6MC4wLCJlZCI6MC4wfQ"
+                    },
+                    {
+                        "type": "appPrices",
+                        "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJBUkciLCJwIjoiMTAwMTAiLCJzZCI6MC4wLCJlZCI6MC4wfQ"
+                    },
+                    {
+                        "type": "appPrices",
+                        "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJBUk0iLCJwIjoiMTAwMTAiLCJzZCI6MC4wLCJlZCI6MC4wfQ"
+                    },
+                    {
+                        "type": "appPrices",
+                        "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJBVEciLCJwIjoiMTAwMTAiLCJzZCI6MC4wLCJlZCI6MC4wfQ"
+                    },
+                    {
+                        "type": "appPrices",
+                        "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJBVVMiLCJwIjoiMTAwMjIiLCJzZCI6MC4wLCJlZCI6MC4wfQ"
+                    },
+                    {
+                        "type": "appPrices",
+                        "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJBVVQiLCJwIjoiMTAwMTAiLCJzZCI6MC4wLCJlZCI6MC4wfQ"
+                    }
+                ],
+                "links": {
+                    "self": "https://api.appstoreconnect.apple.com/v1/appPriceSchedules/1240856775/relationships/automaticPrices",
+                    "related": "https://api.appstoreconnect.apple.com/v1/appPriceSchedules/1240856775/automaticPrices"
+                }
+            },
+            "manualPrices": {
+                "meta": {
+                    "paging": {
+                        "total": 8,
+                        "limit": 10
+                    }
+                },
+                "data": [
+                    {
+                        "type": "appPrices",
+                        "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDEiLCJzZCI6MC4wLCJlZCI6MC4wfQ"
+                    },
+                    {
+                        "type": "appPrices",
+                        "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJHQlIiLCJwIjoiMTAxMjciLCJzZCI6MC4wLCJlZCI6MC4wfQ"
+                    },
+                    {
+                        "type": "appPrices",
+                        "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJIS0ciLCJwIjoiMTAwMDciLCJzZCI6MC4wLCJlZCI6MTY4MTk3NDAwMC4wMDAwMDAwMDB9"
+                    },
+                    {
+                        "type": "appPrices",
+                        "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJKUE4iLCJwIjoiMTAwNjYiLCJzZCI6MC4wLCJlZCI6MC4wfQ"
+                    },
+                    {
+                        "type": "appPrices",
+                        "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJLT1IiLCJwIjoiMTAwOTQiLCJzZCI6MC4wLCJlZCI6MC4wfQ"
+                    },
+                    {
+                        "type": "appPrices",
+                        "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJNQUMiLCJwIjoiMTAwMTAiLCJzZCI6MC4wLCJlZCI6MTY4MTk3NDAwMC4wMDAwMDAwMDB9"
+                    },
+                    {
+                        "type": "appPrices",
+                        "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJUV04iLCJwIjoiMTAwMzUiLCJzZCI6MC4wLCJlZCI6MTY4MTk3NDAwMC4wMDAwMDAwMDB9"
+                    },
+                    {
+                        "type": "appPrices",
+                        "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJVU0EiLCJwIjoiMTAwODgiLCJzZCI6MC4wLCJlZCI6MC4wfQ"
+                    }
+                ],
+                "links": {
+                    "self": "https://api.appstoreconnect.apple.com/v1/appPriceSchedules/1240856775/relationships/manualPrices",
+                    "related": "https://api.appstoreconnect.apple.com/v1/appPriceSchedules/1240856775/manualPrices"
+                }
+            },
+            "baseTerritory": {
+                "data": {
+                    "type": "territories",
+                    "id": "CHN"
+                },
+                "links": {
+                    "self": "https://api.appstoreconnect.apple.com/v1/appPriceSchedules/1240856775/relationships/baseTerritory",
+                    "related": "https://api.appstoreconnect.apple.com/v1/appPriceSchedules/1240856775/baseTerritory"
+                }
+            }
+        },
+        "links": {
+            "self": "https://api.appstoreconnect.apple.com/v1/appPriceSchedules/1240856775"
+        }
+    },
+    "included": [
+        {
+            "type": "territories",
+            "id": "CHN",
+            "attributes": {
+                "currency": "CNY"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/CHN"
+            }
+        },
+        {
+            "type": "appPrices",
+            "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDEiLCJzZCI6MC4wLCJlZCI6MC4wfQ",
+            "attributes": {
+                "manual": true,
+                "endDate": null,
+                "startDate": null
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v2/appPrices/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDEiLCJzZCI6MC4wLCJlZCI6MC4wfQ"
+            }
+        },
+        {
+            "type": "appPrices",
+            "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJHQlIiLCJwIjoiMTAxMjciLCJzZCI6MC4wLCJlZCI6MC4wfQ",
+            "attributes": {
+                "manual": true,
+                "endDate": null,
+                "startDate": null
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v2/appPrices/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJHQlIiLCJwIjoiMTAxMjciLCJzZCI6MC4wLCJlZCI6MC4wfQ"
+            }
+        },
+        {
+            "type": "appPrices",
+            "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJIS0ciLCJwIjoiMTAwMDciLCJzZCI6MC4wLCJlZCI6MTY4MTk3NDAwMC4wMDAwMDAwMDB9",
+            "attributes": {
+                "manual": true,
+                "endDate": "2023-04-20",
+                "startDate": null
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v2/appPrices/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJIS0ciLCJwIjoiMTAwMDciLCJzZCI6MC4wLCJlZCI6MTY4MTk3NDAwMC4wMDAwMDAwMDB9"
+            }
+        },
+        {
+            "type": "appPrices",
+            "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJKUE4iLCJwIjoiMTAwNjYiLCJzZCI6MC4wLCJlZCI6MC4wfQ",
+            "attributes": {
+                "manual": true,
+                "endDate": null,
+                "startDate": null
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v2/appPrices/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJKUE4iLCJwIjoiMTAwNjYiLCJzZCI6MC4wLCJlZCI6MC4wfQ"
+            }
+        },
+        {
+            "type": "appPrices",
+            "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJLT1IiLCJwIjoiMTAwOTQiLCJzZCI6MC4wLCJlZCI6MC4wfQ",
+            "attributes": {
+                "manual": true,
+                "endDate": null,
+                "startDate": null
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v2/appPrices/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJLT1IiLCJwIjoiMTAwOTQiLCJzZCI6MC4wLCJlZCI6MC4wfQ"
+            }
+        },
+        {
+            "type": "appPrices",
+            "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJNQUMiLCJwIjoiMTAwMTAiLCJzZCI6MC4wLCJlZCI6MTY4MTk3NDAwMC4wMDAwMDAwMDB9",
+            "attributes": {
+                "manual": true,
+                "endDate": "2023-04-20",
+                "startDate": null
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v2/appPrices/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJNQUMiLCJwIjoiMTAwMTAiLCJzZCI6MC4wLCJlZCI6MTY4MTk3NDAwMC4wMDAwMDAwMDB9"
+            }
+        },
+        {
+            "type": "appPrices",
+            "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJUV04iLCJwIjoiMTAwMzUiLCJzZCI6MC4wLCJlZCI6MTY4MTk3NDAwMC4wMDAwMDAwMDB9",
+            "attributes": {
+                "manual": true,
+                "endDate": "2023-04-20",
+                "startDate": null
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v2/appPrices/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJUV04iLCJwIjoiMTAwMzUiLCJzZCI6MC4wLCJlZCI6MTY4MTk3NDAwMC4wMDAwMDAwMDB9"
+            }
+        },
+        {
+            "type": "appPrices",
+            "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJVU0EiLCJwIjoiMTAwODgiLCJzZCI6MC4wLCJlZCI6MC4wfQ",
+            "attributes": {
+                "manual": true,
+                "endDate": null,
+                "startDate": null
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v2/appPrices/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJVU0EiLCJwIjoiMTAwODgiLCJzZCI6MC4wLCJlZCI6MC4wfQ"
+            }
+        },
+        {
+            "type": "appPrices",
+            "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJBRkciLCJwIjoiMTAwMTAiLCJzZCI6MC4wLCJlZCI6MC4wfQ",
+            "attributes": {
+                "manual": false,
+                "endDate": null,
+                "startDate": null
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v2/appPrices/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJBRkciLCJwIjoiMTAwMTAiLCJzZCI6MC4wLCJlZCI6MC4wfQ"
+            }
+        },
+        {
+            "type": "appPrices",
+            "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJBR08iLCJwIjoiMTAwMTAiLCJzZCI6MC4wLCJlZCI6MC4wfQ",
+            "attributes": {
+                "manual": false,
+                "endDate": null,
+                "startDate": null
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v2/appPrices/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJBR08iLCJwIjoiMTAwMTAiLCJzZCI6MC4wLCJlZCI6MC4wfQ"
+            }
+        },
+        {
+            "type": "appPrices",
+            "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJBSUEiLCJwIjoiMTAwMTAiLCJzZCI6MC4wLCJlZCI6MC4wfQ",
+            "attributes": {
+                "manual": false,
+                "endDate": null,
+                "startDate": null
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v2/appPrices/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJBSUEiLCJwIjoiMTAwMTAiLCJzZCI6MC4wLCJlZCI6MC4wfQ"
+            }
+        },
+        {
+            "type": "appPrices",
+            "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJBTEIiLCJwIjoiMTAwMTAiLCJzZCI6MC4wLCJlZCI6MC4wfQ",
+            "attributes": {
+                "manual": false,
+                "endDate": null,
+                "startDate": null
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v2/appPrices/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJBTEIiLCJwIjoiMTAwMTAiLCJzZCI6MC4wLCJlZCI6MC4wfQ"
+            }
+        },
+        {
+            "type": "appPrices",
+            "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJBUkUiLCJwIjoiMTAwMDgiLCJzZCI6MC4wLCJlZCI6MC4wfQ",
+            "attributes": {
+                "manual": false,
+                "endDate": null,
+                "startDate": null
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v2/appPrices/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJBUkUiLCJwIjoiMTAwMDgiLCJzZCI6MC4wLCJlZCI6MC4wfQ"
+            }
+        },
+        {
+            "type": "appPrices",
+            "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJBUkciLCJwIjoiMTAwMTAiLCJzZCI6MC4wLCJlZCI6MC4wfQ",
+            "attributes": {
+                "manual": false,
+                "endDate": null,
+                "startDate": null
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v2/appPrices/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJBUkciLCJwIjoiMTAwMTAiLCJzZCI6MC4wLCJlZCI6MC4wfQ"
+            }
+        },
+        {
+            "type": "appPrices",
+            "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJBUk0iLCJwIjoiMTAwMTAiLCJzZCI6MC4wLCJlZCI6MC4wfQ",
+            "attributes": {
+                "manual": false,
+                "endDate": null,
+                "startDate": null
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v2/appPrices/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJBUk0iLCJwIjoiMTAwMTAiLCJzZCI6MC4wLCJlZCI6MC4wfQ"
+            }
+        },
+        {
+            "type": "appPrices",
+            "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJBVEciLCJwIjoiMTAwMTAiLCJzZCI6MC4wLCJlZCI6MC4wfQ",
+            "attributes": {
+                "manual": false,
+                "endDate": null,
+                "startDate": null
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v2/appPrices/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJBVEciLCJwIjoiMTAwMTAiLCJzZCI6MC4wLCJlZCI6MC4wfQ"
+            }
+        },
+        {
+            "type": "appPrices",
+            "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJBVVMiLCJwIjoiMTAwMjIiLCJzZCI6MC4wLCJlZCI6MC4wfQ",
+            "attributes": {
+                "manual": false,
+                "endDate": null,
+                "startDate": null
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v2/appPrices/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJBVVMiLCJwIjoiMTAwMjIiLCJzZCI6MC4wLCJlZCI6MC4wfQ"
+            }
+        },
+        {
+            "type": "appPrices",
+            "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJBVVQiLCJwIjoiMTAwMTAiLCJzZCI6MC4wLCJlZCI6MC4wfQ",
+            "attributes": {
+                "manual": false,
+                "endDate": null,
+                "startDate": null
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v2/appPrices/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJBVVQiLCJwIjoiMTAwMTAiLCJzZCI6MC4wLCJlZCI6MC4wfQ"
+            }
+        },
+        {
+            "type": "apps",
+            "id": "1240856775",
+            "attributes": {
+                "name": "AppleParty - 37手游 iOS 技术团队",
+                "bundleId": "cn.com.37iOS.AppleParty",
+                "isOrEverWasMadeForKids": false,
+                "subscriptionStatusUrlForSandbox": null,
+                "sku": "2021.04.25",
+                "subscriptionStatusUrl": null,
+                "primaryLocale": "zh-Hans",
+                "availableInNewTerritories": true,
+                "contentRightsDeclaration": null,
+                "subscriptionStatusUrlVersion": null,
+                "subscriptionStatusUrlVersionForSandbox": null
+            },
+            "relationships": {
+                "appEvents": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/relationships/appEvents",
+                        "related": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/appEvents"
+                    }
+                },
+                "pricePoints": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/relationships/pricePoints",
+                        "related": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/pricePoints"
+                    }
+                },
+                "endUserLicenseAgreement": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/relationships/endUserLicenseAgreement",
+                        "related": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/endUserLicenseAgreement"
+                    }
+                },
+                "appAvailability": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/relationships/appAvailability",
+                        "related": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/appAvailability"
+                    }
+                },
+                "appInfos": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/relationships/appInfos",
+                        "related": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/appInfos"
+                    }
+                },
+                "preReleaseVersions": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/relationships/preReleaseVersions",
+                        "related": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/preReleaseVersions"
+                    }
+                },
+                "appCustomProductPages": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/relationships/appCustomProductPages",
+                        "related": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/appCustomProductPages"
+                    }
+                },
+                "inAppPurchasesV2": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/relationships/inAppPurchasesV2",
+                        "related": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/inAppPurchasesV2"
+                    }
+                },
+                "betaTesters": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/relationships/betaTesters"
+                    }
+                },
+                "inAppPurchases": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/relationships/inAppPurchases",
+                        "related": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/inAppPurchases"
+                    }
+                },
+                "appClips": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/relationships/appClips",
+                        "related": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/appClips"
+                    }
+                },
+                "appPriceSchedule": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/relationships/appPriceSchedule",
+                        "related": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/appPriceSchedule"
+                    }
+                },
+                "customerReviews": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/relationships/customerReviews",
+                        "related": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/customerReviews"
+                    }
+                },
+                "betaLicenseAgreement": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/relationships/betaLicenseAgreement",
+                        "related": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/betaLicenseAgreement"
+                    }
+                },
+                "appStoreVersions": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/relationships/appStoreVersions",
+                        "related": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/appStoreVersions"
+                    }
+                },
+                "builds": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/relationships/builds",
+                        "related": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/builds"
+                    }
+                },
+                "preOrder": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/relationships/preOrder",
+                        "related": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/preOrder"
+                    }
+                },
+                "betaAppLocalizations": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/relationships/betaAppLocalizations",
+                        "related": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/betaAppLocalizations"
+                    }
+                },
+                "availableTerritories": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/relationships/availableTerritories",
+                        "related": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/availableTerritories"
+                    }
+                },
+                "prices": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/relationships/prices",
+                        "related": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/prices"
+                    }
+                },
+                "betaGroups": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/relationships/betaGroups",
+                        "related": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/betaGroups"
+                    }
+                },
+                "reviewSubmissions": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/relationships/reviewSubmissions",
+                        "related": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/reviewSubmissions"
+                    }
+                },
+                "perfPowerMetrics": {
+                    "links": {
+                        "related": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/perfPowerMetrics"
+                    }
+                },
+                "appPricePoints": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/relationships/appPricePoints",
+                        "related": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/appPricePoints"
+                    }
+                },
+                "ciProduct": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/relationships/ciProduct",
+                        "related": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/ciProduct"
+                    }
+                },
+                "betaAppReviewDetail": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/relationships/betaAppReviewDetail",
+                        "related": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/betaAppReviewDetail"
+                    }
+                },
+                "promotedPurchases": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/relationships/promotedPurchases",
+                        "related": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/promotedPurchases"
+                    }
+                },
+                "subscriptionGracePeriod": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/relationships/subscriptionGracePeriod",
+                        "related": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/subscriptionGracePeriod"
+                    }
+                },
+                "subscriptionGroups": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/relationships/subscriptionGroups",
+                        "related": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/subscriptionGroups"
+                    }
+                },
+                "gameCenterEnabledVersions": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/relationships/gameCenterEnabledVersions",
+                        "related": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/gameCenterEnabledVersions"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/apps/1240856775"
+            }
+        }
+    ],
+    "links": {
+        "self": "https://api.appstoreconnect.apple.com/v1/appPriceSchedules/1240856775?include=app%2CautomaticPrices%2CmanualPrices%2CbaseTerritory"
+    }
+}

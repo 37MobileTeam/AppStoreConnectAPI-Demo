@@ -1,0 +1,289 @@
+{
+    "data": [
+        {
+            "type": "inAppPurchases",
+            "id": "6444653105",
+            "attributes": {
+                "name": "37手游iOS技术运营团队",
+                "productId": "com.37iOS.01",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "READY_TO_SUBMIT",
+                "reviewNote": null,
+                "familySharable": false,
+                "contentHosting": null,
+                "availableInAllTerritories": true
+            },
+            "relationships": {
+                "inAppPurchaseLocalizations": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6444653105/relationships/inAppPurchaseLocalizations",
+                        "related": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6444653105/inAppPurchaseLocalizations"
+                    }
+                },
+                "pricePoints": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6444653105/relationships/pricePoints",
+                        "related": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6444653105/pricePoints"
+                    }
+                },
+                "content": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6444653105/relationships/content",
+                        "related": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6444653105/content"
+                    }
+                },
+                "appStoreReviewScreenshot": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6444653105/relationships/appStoreReviewScreenshot",
+                        "related": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6444653105/appStoreReviewScreenshot"
+                    }
+                },
+                "promotedPurchase": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6444653105/relationships/promotedPurchase",
+                        "related": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6444653105/promotedPurchase"
+                    }
+                },
+                "iapPriceSchedule": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6444653105/relationships/iapPriceSchedule",
+                        "related": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6444653105/iapPriceSchedule"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6444653105"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "6445797061",
+            "attributes": {
+                "name": "Pack1",
+                "productId": "com.37iOS.9",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "MISSING_METADATA",
+                "reviewNote": null,
+                "familySharable": false,
+                "contentHosting": null,
+                "availableInAllTerritories": false
+            },
+            "relationships": {
+                "inAppPurchaseLocalizations": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445797061/relationships/inAppPurchaseLocalizations",
+                        "related": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445797061/inAppPurchaseLocalizations"
+                    }
+                },
+                "pricePoints": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445797061/relationships/pricePoints",
+                        "related": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445797061/pricePoints"
+                    }
+                },
+                "content": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445797061/relationships/content",
+                        "related": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445797061/content"
+                    }
+                },
+                "appStoreReviewScreenshot": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445797061/relationships/appStoreReviewScreenshot",
+                        "related": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445797061/appStoreReviewScreenshot"
+                    }
+                },
+                "promotedPurchase": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445797061/relationships/promotedPurchase",
+                        "related": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445797061/promotedPurchase"
+                    }
+                },
+                "iapPriceSchedule": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445797061/relationships/iapPriceSchedule",
+                        "related": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445797061/iapPriceSchedule"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445797061"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "6445797091",
+            "attributes": {
+                "name": "Pack2",
+                "productId": "com.37iOS.10",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "MISSING_METADATA",
+                "reviewNote": null,
+                "familySharable": false,
+                "contentHosting": null,
+                "availableInAllTerritories": true
+            },
+            "relationships": {
+                "inAppPurchaseLocalizations": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445797091/relationships/inAppPurchaseLocalizations",
+                        "related": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445797091/inAppPurchaseLocalizations"
+                    }
+                },
+                "pricePoints": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445797091/relationships/pricePoints",
+                        "related": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445797091/pricePoints"
+                    }
+                },
+                "content": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445797091/relationships/content",
+                        "related": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445797091/content"
+                    }
+                },
+                "appStoreReviewScreenshot": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445797091/relationships/appStoreReviewScreenshot",
+                        "related": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445797091/appStoreReviewScreenshot"
+                    }
+                },
+                "promotedPurchase": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445797091/relationships/promotedPurchase",
+                        "related": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445797091/promotedPurchase"
+                    }
+                },
+                "iapPriceSchedule": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445797091/relationships/iapPriceSchedule",
+                        "related": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445797091/iapPriceSchedule"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445797091"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "6445226859",
+            "attributes": {
+                "name": "测试suc1",
+                "productId": "com.37iOS.01",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "MISSING_METADATA",
+                "reviewNote": null,
+                "familySharable": false,
+                "contentHosting": null,
+                "availableInAllTerritories": true
+            },
+            "relationships": {
+                "inAppPurchaseLocalizations": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445226859/relationships/inAppPurchaseLocalizations",
+                        "related": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445226859/inAppPurchaseLocalizations"
+                    }
+                },
+                "pricePoints": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445226859/relationships/pricePoints",
+                        "related": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445226859/pricePoints"
+                    }
+                },
+                "content": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445226859/relationships/content",
+                        "related": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445226859/content"
+                    }
+                },
+                "appStoreReviewScreenshot": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445226859/relationships/appStoreReviewScreenshot",
+                        "related": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445226859/appStoreReviewScreenshot"
+                    }
+                },
+                "promotedPurchase": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445226859/relationships/promotedPurchase",
+                        "related": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445226859/promotedPurchase"
+                    }
+                },
+                "iapPriceSchedule": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445226859/relationships/iapPriceSchedule",
+                        "related": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445226859/iapPriceSchedule"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445226859"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "6445226860",
+            "attributes": {
+                "name": "测试suc3",
+                "productId": "com.37iOS.02",
+                "inAppPurchaseType": "NON_CONSUMABLE",
+                "state": "MISSING_METADATA",
+                "reviewNote": null,
+                "familySharable": false,
+                "contentHosting": false,
+                "availableInAllTerritories": true
+            },
+            "relationships": {
+                "inAppPurchaseLocalizations": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445226860/relationships/inAppPurchaseLocalizations",
+                        "related": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445226860/inAppPurchaseLocalizations"
+                    }
+                },
+                "pricePoints": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445226860/relationships/pricePoints",
+                        "related": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445226860/pricePoints"
+                    }
+                },
+                "content": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445226860/relationships/content",
+                        "related": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445226860/content"
+                    }
+                },
+                "appStoreReviewScreenshot": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445226860/relationships/appStoreReviewScreenshot",
+                        "related": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445226860/appStoreReviewScreenshot"
+                    }
+                },
+                "promotedPurchase": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445226860/relationships/promotedPurchase",
+                        "related": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445226860/promotedPurchase"
+                    }
+                },
+                "iapPriceSchedule": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445226860/relationships/iapPriceSchedule",
+                        "related": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445226860/iapPriceSchedule"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v2/inAppPurchases/6445226860"
+            }
+        }
+    ],
+    "links": {
+        "self": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/inAppPurchasesV2?limit=5",
+        "next": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/inAppPurchasesV2?cursor=BQ.ANq-C-Y&limit=5"
+    },
+    "meta": {
+        "paging": {
+            "total": 14,
+            "limit": 5
+        }
+    }
+}

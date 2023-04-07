@@ -1,0 +1,72 @@
+{
+    "data": [
+        {
+            "type": "inAppPurchasePrices",
+            "id": "eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJDSE4iLCJwIjoiMSIsInNkIjowLjAsImVkIjowLjB9",
+            "attributes": {
+                "startDate": null,
+                "endDate": null,
+                "manual": true
+            },
+            "relationships": {
+                "inAppPurchasePricePoint": {
+                    "data": {
+                        "type": "inAppPurchasePricePoints",
+                        "id": "eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJDSE4iLCJwIjoiMSJ9"
+                    }
+                },
+                "territory": {
+                    "data": {
+                        "type": "territories",
+                        "id": "CHN"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchasePrices/eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJDSE4iLCJwIjoiMSIsInNkIjowLjAsImVkIjowLjB9"
+            }
+        }
+    ],
+    "included": [
+        {
+            "type": "inAppPurchasePricePoints",
+            "id": "eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJDSE4iLCJwIjoiMSJ9",
+            "attributes": {
+                "customerPrice": "6.0",
+                "proceeds": "5.05",
+                "priceTier": "1"
+            },
+            "relationships": {
+                "territory": {},
+                "equalizations": {
+                    "links": {
+                        "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchasePricePoints/eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJDSE4iLCJwIjoiMSJ9/relationships/equalizations",
+                        "related": "https://api.appstoreconnect.apple.com/v1/inAppPurchasePricePoints/eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJDSE4iLCJwIjoiMSJ9/equalizations"
+                    }
+                }
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchasePricePoints/eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJDSE4iLCJwIjoiMSJ9"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "CHN",
+            "attributes": {
+                "currency": "CNY"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/CHN"
+            }
+        }
+    ],
+    "links": {
+        "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchasePriceSchedules/6444653105/manualPrices?include=inAppPurchasePricePoint%2Cterritory"
+    },
+    "meta": {
+        "paging": {
+            "total": 1,
+            "limit": 50
+        }
+    }
+}

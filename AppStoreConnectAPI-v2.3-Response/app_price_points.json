@@ -1,0 +1,5026 @@
+{
+  "data": [
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDAifQ",
+      "attributes": {
+        "customerPrice": "0.0",
+        "proceeds": "0.0"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDAifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDAifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDAifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDEifQ",
+      "attributes": {
+        "customerPrice": "1.0",
+        "proceeds": "0.84"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDEifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDEifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDEifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDIifQ",
+      "attributes": {
+        "customerPrice": "1.5",
+        "proceeds": "1.26"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDIifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDIifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDIifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDMifQ",
+      "attributes": {
+        "customerPrice": "1.8",
+        "proceeds": "1.52"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDMifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDMifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDMifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDQifQ",
+      "attributes": {
+        "customerPrice": "2.0",
+        "proceeds": "1.68"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDQifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDQifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDQifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDUifQ",
+      "attributes": {
+        "customerPrice": "2.5",
+        "proceeds": "2.11"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDUifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDUifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDUifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDYifQ",
+      "attributes": {
+        "customerPrice": "2.8",
+        "proceeds": "2.36"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDYifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDYifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDYifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDcifQ",
+      "attributes": {
+        "customerPrice": "3.0",
+        "proceeds": "2.53"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDcifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDcifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDcifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDgifQ",
+      "attributes": {
+        "customerPrice": "3.5",
+        "proceeds": "2.95"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDgifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDgifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDgifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDkifQ",
+      "attributes": {
+        "customerPrice": "3.8",
+        "proceeds": "3.2"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDkifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDkifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDkifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTAifQ",
+      "attributes": {
+        "customerPrice": "4.0",
+        "proceeds": "3.37"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTAifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTAifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTAifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTEifQ",
+      "attributes": {
+        "customerPrice": "4.5",
+        "proceeds": "3.79"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTEifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTEifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTEifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTIifQ",
+      "attributes": {
+        "customerPrice": "4.8",
+        "proceeds": "4.04"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTIifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTIifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTIifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTMifQ",
+      "attributes": {
+        "customerPrice": "5.0",
+        "proceeds": "4.21"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTMifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTMifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTMifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTQifQ",
+      "attributes": {
+        "customerPrice": "5.5",
+        "proceeds": "4.63"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTQifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTQifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTQifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTUifQ",
+      "attributes": {
+        "customerPrice": "5.8",
+        "proceeds": "4.89"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTUifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTUifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTUifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTYifQ",
+      "attributes": {
+        "customerPrice": "6.0",
+        "proceeds": "5.05"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTYifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTYifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTYifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTcifQ",
+      "attributes": {
+        "customerPrice": "6.5",
+        "proceeds": "5.48"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTcifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTcifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTcifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTgifQ",
+      "attributes": {
+        "customerPrice": "6.8",
+        "proceeds": "5.73"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTgifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTgifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTgifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTkifQ",
+      "attributes": {
+        "customerPrice": "7.0",
+        "proceeds": "5.9"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTkifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTkifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTkifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjAifQ",
+      "attributes": {
+        "customerPrice": "7.5",
+        "proceeds": "6.32"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjAifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjAifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjAifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjEifQ",
+      "attributes": {
+        "customerPrice": "7.8",
+        "proceeds": "6.57"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjEifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjEifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjEifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjIifQ",
+      "attributes": {
+        "customerPrice": "8.0",
+        "proceeds": "6.74"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjIifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjIifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjIifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjMifQ",
+      "attributes": {
+        "customerPrice": "8.5",
+        "proceeds": "7.16"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjMifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjMifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjMifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjQifQ",
+      "attributes": {
+        "customerPrice": "8.8",
+        "proceeds": "7.41"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjQifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjQifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjQifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjUifQ",
+      "attributes": {
+        "customerPrice": "9.0",
+        "proceeds": "7.58"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjUifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjUifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjUifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjYifQ",
+      "attributes": {
+        "customerPrice": "9.5",
+        "proceeds": "8.0"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjYifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjYifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjYifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjcifQ",
+      "attributes": {
+        "customerPrice": "9.8",
+        "proceeds": "8.26"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjcifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjcifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjcifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjgifQ",
+      "attributes": {
+        "customerPrice": "9.9",
+        "proceeds": "8.34"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjgifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjgifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjgifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjkifQ",
+      "attributes": {
+        "customerPrice": "10.0",
+        "proceeds": "8.42"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjkifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjkifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMjkifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzAifQ",
+      "attributes": {
+        "customerPrice": "10.8",
+        "proceeds": "9.1"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzAifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzAifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzAifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzEifQ",
+      "attributes": {
+        "customerPrice": "11.0",
+        "proceeds": "9.27"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzEifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzEifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzEifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzIifQ",
+      "attributes": {
+        "customerPrice": "11.8",
+        "proceeds": "9.94"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzIifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzIifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzIifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzMifQ",
+      "attributes": {
+        "customerPrice": "12.0",
+        "proceeds": "10.11"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzMifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzMifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzMifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzQifQ",
+      "attributes": {
+        "customerPrice": "12.8",
+        "proceeds": "10.78"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzQifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzQifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzQifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzUifQ",
+      "attributes": {
+        "customerPrice": "13.0",
+        "proceeds": "10.95"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzUifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzUifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzUifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzYifQ",
+      "attributes": {
+        "customerPrice": "13.8",
+        "proceeds": "11.63"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzYifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzYifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzYifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzcifQ",
+      "attributes": {
+        "customerPrice": "14.0",
+        "proceeds": "11.79"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzcifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzcifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzcifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzgifQ",
+      "attributes": {
+        "customerPrice": "14.8",
+        "proceeds": "12.47"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzgifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzgifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzgifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzkifQ",
+      "attributes": {
+        "customerPrice": "15.0",
+        "proceeds": "12.64"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzkifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzkifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMzkifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDAifQ",
+      "attributes": {
+        "customerPrice": "15.8",
+        "proceeds": "13.31"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDAifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDAifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDAifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDEifQ",
+      "attributes": {
+        "customerPrice": "16.0",
+        "proceeds": "13.48"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDEifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDEifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDEifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDIifQ",
+      "attributes": {
+        "customerPrice": "16.8",
+        "proceeds": "14.15"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDIifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDIifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDIifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDMifQ",
+      "attributes": {
+        "customerPrice": "17.0",
+        "proceeds": "14.32"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDMifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDMifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDMifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDQifQ",
+      "attributes": {
+        "customerPrice": "17.8",
+        "proceeds": "15.0"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDQifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDQifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDQifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDUifQ",
+      "attributes": {
+        "customerPrice": "18.0",
+        "proceeds": "15.16"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDUifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDUifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDUifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDYifQ",
+      "attributes": {
+        "customerPrice": "18.8",
+        "proceeds": "15.84"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDYifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDYifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDYifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDcifQ",
+      "attributes": {
+        "customerPrice": "19.0",
+        "proceeds": "16.01"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDcifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDcifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDcifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDgifQ",
+      "attributes": {
+        "customerPrice": "19.8",
+        "proceeds": "16.68"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDgifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDgifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDgifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDkifQ",
+      "attributes": {
+        "customerPrice": "19.9",
+        "proceeds": "16.76"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDkifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDkifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNDkifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTAifQ",
+      "attributes": {
+        "customerPrice": "20.0",
+        "proceeds": "16.85"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTAifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTAifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTAifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTEifQ",
+      "attributes": {
+        "customerPrice": "20.8",
+        "proceeds": "17.52"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTEifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTEifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTEifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTIifQ",
+      "attributes": {
+        "customerPrice": "21.0",
+        "proceeds": "17.69"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTIifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTIifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTIifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTMifQ",
+      "attributes": {
+        "customerPrice": "21.8",
+        "proceeds": "18.36"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTMifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTMifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTMifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTQifQ",
+      "attributes": {
+        "customerPrice": "22.0",
+        "proceeds": "18.53"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTQifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTQifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTQifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTUifQ",
+      "attributes": {
+        "customerPrice": "22.8",
+        "proceeds": "19.21"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTUifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTUifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTUifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTYifQ",
+      "attributes": {
+        "customerPrice": "23.0",
+        "proceeds": "19.38"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTYifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTYifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTYifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTcifQ",
+      "attributes": {
+        "customerPrice": "23.8",
+        "proceeds": "20.05"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTcifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTcifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTcifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTgifQ",
+      "attributes": {
+        "customerPrice": "24.0",
+        "proceeds": "20.22"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTgifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTgifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTgifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTkifQ",
+      "attributes": {
+        "customerPrice": "24.8",
+        "proceeds": "20.89"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTkifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTkifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNTkifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjAifQ",
+      "attributes": {
+        "customerPrice": "25.0",
+        "proceeds": "21.06"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjAifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjAifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjAifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjEifQ",
+      "attributes": {
+        "customerPrice": "25.8",
+        "proceeds": "21.73"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjEifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjEifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjEifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjIifQ",
+      "attributes": {
+        "customerPrice": "26.0",
+        "proceeds": "21.9"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjIifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjIifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjIifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjMifQ",
+      "attributes": {
+        "customerPrice": "26.8",
+        "proceeds": "22.58"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjMifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjMifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjMifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjQifQ",
+      "attributes": {
+        "customerPrice": "27.0",
+        "proceeds": "22.75"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjQifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjQifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjQifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjUifQ",
+      "attributes": {
+        "customerPrice": "27.8",
+        "proceeds": "23.42"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjUifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjUifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjUifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjYifQ",
+      "attributes": {
+        "customerPrice": "28.0",
+        "proceeds": "23.59"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjYifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjYifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjYifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjcifQ",
+      "attributes": {
+        "customerPrice": "28.8",
+        "proceeds": "24.26"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjcifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjcifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjcifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjgifQ",
+      "attributes": {
+        "customerPrice": "29.0",
+        "proceeds": "24.43"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjgifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjgifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjgifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjkifQ",
+      "attributes": {
+        "customerPrice": "29.8",
+        "proceeds": "25.1"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjkifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjkifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNjkifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzAifQ",
+      "attributes": {
+        "customerPrice": "29.9",
+        "proceeds": "25.19"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzAifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzAifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzAifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzEifQ",
+      "attributes": {
+        "customerPrice": "30.0",
+        "proceeds": "25.27"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzEifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzEifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzEifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzIifQ",
+      "attributes": {
+        "customerPrice": "30.8",
+        "proceeds": "25.95"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzIifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzIifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzIifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzMifQ",
+      "attributes": {
+        "customerPrice": "31.0",
+        "proceeds": "26.11"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzMifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzMifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzMifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzQifQ",
+      "attributes": {
+        "customerPrice": "31.8",
+        "proceeds": "26.79"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzQifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzQifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzQifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzUifQ",
+      "attributes": {
+        "customerPrice": "32.0",
+        "proceeds": "26.96"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzUifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzUifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzUifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzYifQ",
+      "attributes": {
+        "customerPrice": "32.8",
+        "proceeds": "27.63"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzYifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzYifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzYifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzcifQ",
+      "attributes": {
+        "customerPrice": "33.0",
+        "proceeds": "27.8"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzcifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzcifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzcifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzgifQ",
+      "attributes": {
+        "customerPrice": "33.8",
+        "proceeds": "28.47"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzgifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzgifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzgifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzkifQ",
+      "attributes": {
+        "customerPrice": "34.0",
+        "proceeds": "28.64"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzkifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzkifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwNzkifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODAifQ",
+      "attributes": {
+        "customerPrice": "34.8",
+        "proceeds": "29.32"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODAifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODAifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODAifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODEifQ",
+      "attributes": {
+        "customerPrice": "35.0",
+        "proceeds": "29.48"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODEifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODEifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODEifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODIifQ",
+      "attributes": {
+        "customerPrice": "35.8",
+        "proceeds": "30.16"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODIifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODIifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODIifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODMifQ",
+      "attributes": {
+        "customerPrice": "36.0",
+        "proceeds": "30.33"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODMifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODMifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODMifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODQifQ",
+      "attributes": {
+        "customerPrice": "36.8",
+        "proceeds": "31.0"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODQifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODQifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODQifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODUifQ",
+      "attributes": {
+        "customerPrice": "37.0",
+        "proceeds": "31.17"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODUifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODUifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODUifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODYifQ",
+      "attributes": {
+        "customerPrice": "37.8",
+        "proceeds": "31.84"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODYifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODYifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODYifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODcifQ",
+      "attributes": {
+        "customerPrice": "38.0",
+        "proceeds": "32.01"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODcifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODcifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODcifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODgifQ",
+      "attributes": {
+        "customerPrice": "38.8",
+        "proceeds": "32.69"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODgifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODgifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODgifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODkifQ",
+      "attributes": {
+        "customerPrice": "39.0",
+        "proceeds": "32.85"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODkifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODkifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwODkifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTAifQ",
+      "attributes": {
+        "customerPrice": "39.8",
+        "proceeds": "33.53"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTAifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTAifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTAifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTEifQ",
+      "attributes": {
+        "customerPrice": "39.9",
+        "proceeds": "33.61"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTEifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTEifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTEifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTIifQ",
+      "attributes": {
+        "customerPrice": "40.0",
+        "proceeds": "33.7"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTIifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTIifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTIifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTMifQ",
+      "attributes": {
+        "customerPrice": "40.8",
+        "proceeds": "34.37"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTMifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTMifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTMifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTQifQ",
+      "attributes": {
+        "customerPrice": "41.0",
+        "proceeds": "34.54"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTQifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTQifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTQifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTUifQ",
+      "attributes": {
+        "customerPrice": "41.8",
+        "proceeds": "35.21"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTUifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTUifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTUifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTYifQ",
+      "attributes": {
+        "customerPrice": "42.0",
+        "proceeds": "35.38"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTYifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTYifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTYifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTcifQ",
+      "attributes": {
+        "customerPrice": "42.8",
+        "proceeds": "36.06"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTcifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTcifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTcifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTgifQ",
+      "attributes": {
+        "customerPrice": "43.0",
+        "proceeds": "36.22"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTgifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTgifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTgifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTkifQ",
+      "attributes": {
+        "customerPrice": "43.8",
+        "proceeds": "36.9"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTkifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTkifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwOTkifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDAifQ",
+      "attributes": {
+        "customerPrice": "44.0",
+        "proceeds": "37.07"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDAifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDAifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDAifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDEifQ",
+      "attributes": {
+        "customerPrice": "44.8",
+        "proceeds": "37.74"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDEifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDEifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDEifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDIifQ",
+      "attributes": {
+        "customerPrice": "45.0",
+        "proceeds": "37.91"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDIifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDIifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDIifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDMifQ",
+      "attributes": {
+        "customerPrice": "45.8",
+        "proceeds": "38.58"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDMifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDMifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDMifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDQifQ",
+      "attributes": {
+        "customerPrice": "46.0",
+        "proceeds": "38.75"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDQifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDQifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDQifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDUifQ",
+      "attributes": {
+        "customerPrice": "46.8",
+        "proceeds": "39.43"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDUifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDUifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDUifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDYifQ",
+      "attributes": {
+        "customerPrice": "47.0",
+        "proceeds": "39.59"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDYifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDYifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDYifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDcifQ",
+      "attributes": {
+        "customerPrice": "47.8",
+        "proceeds": "40.27"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDcifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDcifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDcifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDgifQ",
+      "attributes": {
+        "customerPrice": "48.0",
+        "proceeds": "40.44"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDgifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDgifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDgifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDkifQ",
+      "attributes": {
+        "customerPrice": "48.8",
+        "proceeds": "41.11"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDkifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDkifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMDkifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTAifQ",
+      "attributes": {
+        "customerPrice": "49.0",
+        "proceeds": "41.28"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTAifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTAifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTAifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTEifQ",
+      "attributes": {
+        "customerPrice": "49.8",
+        "proceeds": "41.95"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTEifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTEifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTEifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTIifQ",
+      "attributes": {
+        "customerPrice": "49.9",
+        "proceeds": "42.04"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTIifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTIifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTIifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTMifQ",
+      "attributes": {
+        "customerPrice": "50.0",
+        "proceeds": "42.12"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTMifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTMifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTMifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTQifQ",
+      "attributes": {
+        "customerPrice": "50.8",
+        "proceeds": "42.79"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTQifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTQifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTQifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTUifQ",
+      "attributes": {
+        "customerPrice": "51.0",
+        "proceeds": "42.96"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTUifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTUifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTUifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTYifQ",
+      "attributes": {
+        "customerPrice": "51.8",
+        "proceeds": "43.64"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTYifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTYifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTYifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTcifQ",
+      "attributes": {
+        "customerPrice": "52.0",
+        "proceeds": "43.81"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTcifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTcifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTcifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTgifQ",
+      "attributes": {
+        "customerPrice": "52.8",
+        "proceeds": "44.48"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTgifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTgifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTgifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTkifQ",
+      "attributes": {
+        "customerPrice": "53.0",
+        "proceeds": "44.65"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTkifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTkifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMTkifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjAifQ",
+      "attributes": {
+        "customerPrice": "53.8",
+        "proceeds": "45.32"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjAifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjAifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjAifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjEifQ",
+      "attributes": {
+        "customerPrice": "54.0",
+        "proceeds": "45.49"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjEifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjEifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjEifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjIifQ",
+      "attributes": {
+        "customerPrice": "54.8",
+        "proceeds": "46.16"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjIifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjIifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjIifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjMifQ",
+      "attributes": {
+        "customerPrice": "55.0",
+        "proceeds": "46.33"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjMifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjMifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjMifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjQifQ",
+      "attributes": {
+        "customerPrice": "55.8",
+        "proceeds": "47.01"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjQifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjQifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjQifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjUifQ",
+      "attributes": {
+        "customerPrice": "56.0",
+        "proceeds": "47.18"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjUifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjUifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjUifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjYifQ",
+      "attributes": {
+        "customerPrice": "56.8",
+        "proceeds": "47.85"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjYifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjYifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjYifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjcifQ",
+      "attributes": {
+        "customerPrice": "57.0",
+        "proceeds": "48.02"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjcifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjcifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjcifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjgifQ",
+      "attributes": {
+        "customerPrice": "57.8",
+        "proceeds": "48.69"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjgifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjgifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjgifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjkifQ",
+      "attributes": {
+        "customerPrice": "58.0",
+        "proceeds": "48.86"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjkifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjkifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMjkifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzAifQ",
+      "attributes": {
+        "customerPrice": "58.8",
+        "proceeds": "49.53"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzAifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzAifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzAifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzEifQ",
+      "attributes": {
+        "customerPrice": "59.0",
+        "proceeds": "49.7"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzEifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzEifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzEifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzIifQ",
+      "attributes": {
+        "customerPrice": "59.8",
+        "proceeds": "50.38"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzIifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzIifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzIifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzMifQ",
+      "attributes": {
+        "customerPrice": "59.9",
+        "proceeds": "50.46"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzMifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzMifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzMifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzQifQ",
+      "attributes": {
+        "customerPrice": "60.0",
+        "proceeds": "50.55"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzQifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzQifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzQifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzUifQ",
+      "attributes": {
+        "customerPrice": "60.8",
+        "proceeds": "51.22"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzUifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzUifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzUifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzYifQ",
+      "attributes": {
+        "customerPrice": "61.0",
+        "proceeds": "51.39"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzYifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzYifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzYifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzcifQ",
+      "attributes": {
+        "customerPrice": "61.8",
+        "proceeds": "52.06"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzcifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzcifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzcifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzgifQ",
+      "attributes": {
+        "customerPrice": "62.0",
+        "proceeds": "52.23"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzgifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzgifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzgifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzkifQ",
+      "attributes": {
+        "customerPrice": "62.8",
+        "proceeds": "52.9"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzkifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzkifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxMzkifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDAifQ",
+      "attributes": {
+        "customerPrice": "63.0",
+        "proceeds": "53.07"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDAifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDAifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDAifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDEifQ",
+      "attributes": {
+        "customerPrice": "63.8",
+        "proceeds": "53.75"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDEifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDEifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDEifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDIifQ",
+      "attributes": {
+        "customerPrice": "64.0",
+        "proceeds": "53.91"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDIifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDIifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDIifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDMifQ",
+      "attributes": {
+        "customerPrice": "64.8",
+        "proceeds": "54.59"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDMifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDMifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDMifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDQifQ",
+      "attributes": {
+        "customerPrice": "65.0",
+        "proceeds": "54.76"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDQifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDQifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDQifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDUifQ",
+      "attributes": {
+        "customerPrice": "65.8",
+        "proceeds": "55.43"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDUifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDUifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDUifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDYifQ",
+      "attributes": {
+        "customerPrice": "66.0",
+        "proceeds": "55.6"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDYifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDYifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDYifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDcifQ",
+      "attributes": {
+        "customerPrice": "66.8",
+        "proceeds": "56.27"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDcifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDcifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDcifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDgifQ",
+      "attributes": {
+        "customerPrice": "67.0",
+        "proceeds": "56.44"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDgifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDgifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDgifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDkifQ",
+      "attributes": {
+        "customerPrice": "67.8",
+        "proceeds": "57.12"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDkifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDkifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNDkifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTAifQ",
+      "attributes": {
+        "customerPrice": "68.0",
+        "proceeds": "57.28"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTAifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTAifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTAifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTEifQ",
+      "attributes": {
+        "customerPrice": "68.8",
+        "proceeds": "57.96"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTEifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTEifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTEifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTIifQ",
+      "attributes": {
+        "customerPrice": "69.0",
+        "proceeds": "58.13"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTIifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTIifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTIifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTMifQ",
+      "attributes": {
+        "customerPrice": "69.8",
+        "proceeds": "58.8"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTMifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTMifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTMifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTQifQ",
+      "attributes": {
+        "customerPrice": "69.9",
+        "proceeds": "58.89"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTQifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTQifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTQifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTUifQ",
+      "attributes": {
+        "customerPrice": "70.0",
+        "proceeds": "58.97"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTUifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTUifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTUifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTYifQ",
+      "attributes": {
+        "customerPrice": "70.8",
+        "proceeds": "59.64"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTYifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTYifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTYifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTcifQ",
+      "attributes": {
+        "customerPrice": "71.0",
+        "proceeds": "59.81"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTcifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTcifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTcifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTgifQ",
+      "attributes": {
+        "customerPrice": "71.8",
+        "proceeds": "60.49"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTgifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTgifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTgifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTkifQ",
+      "attributes": {
+        "customerPrice": "72.0",
+        "proceeds": "60.65"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTkifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTkifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNTkifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjAifQ",
+      "attributes": {
+        "customerPrice": "72.8",
+        "proceeds": "61.33"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjAifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjAifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjAifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjEifQ",
+      "attributes": {
+        "customerPrice": "73.0",
+        "proceeds": "61.5"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjEifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjEifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjEifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjIifQ",
+      "attributes": {
+        "customerPrice": "73.8",
+        "proceeds": "62.17"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjIifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjIifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjIifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjMifQ",
+      "attributes": {
+        "customerPrice": "74.0",
+        "proceeds": "62.34"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjMifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjMifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjMifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjQifQ",
+      "attributes": {
+        "customerPrice": "74.8",
+        "proceeds": "63.01"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjQifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjQifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjQifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjUifQ",
+      "attributes": {
+        "customerPrice": "75.0",
+        "proceeds": "63.18"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjUifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjUifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjUifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjYifQ",
+      "attributes": {
+        "customerPrice": "75.8",
+        "proceeds": "63.86"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjYifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjYifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjYifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjcifQ",
+      "attributes": {
+        "customerPrice": "76.0",
+        "proceeds": "64.02"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjcifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjcifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjcifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjgifQ",
+      "attributes": {
+        "customerPrice": "76.8",
+        "proceeds": "64.7"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjgifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjgifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjgifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjkifQ",
+      "attributes": {
+        "customerPrice": "77.0",
+        "proceeds": "64.87"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjkifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjkifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNjkifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzAifQ",
+      "attributes": {
+        "customerPrice": "77.8",
+        "proceeds": "65.54"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzAifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzAifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzAifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzEifQ",
+      "attributes": {
+        "customerPrice": "78.0",
+        "proceeds": "65.71"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzEifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzEifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzEifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzIifQ",
+      "attributes": {
+        "customerPrice": "78.8",
+        "proceeds": "66.38"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzIifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzIifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzIifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzMifQ",
+      "attributes": {
+        "customerPrice": "79.0",
+        "proceeds": "66.55"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzMifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzMifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzMifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzQifQ",
+      "attributes": {
+        "customerPrice": "79.8",
+        "proceeds": "67.22"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzQifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzQifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzQifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzUifQ",
+      "attributes": {
+        "customerPrice": "79.9",
+        "proceeds": "67.31"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzUifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzUifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzUifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzYifQ",
+      "attributes": {
+        "customerPrice": "80.0",
+        "proceeds": "67.39"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzYifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzYifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzYifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzcifQ",
+      "attributes": {
+        "customerPrice": "80.8",
+        "proceeds": "68.07"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzcifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzcifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzcifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzgifQ",
+      "attributes": {
+        "customerPrice": "81.0",
+        "proceeds": "68.24"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzgifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzgifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzgifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzkifQ",
+      "attributes": {
+        "customerPrice": "81.8",
+        "proceeds": "68.91"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzkifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzkifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxNzkifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODAifQ",
+      "attributes": {
+        "customerPrice": "82.0",
+        "proceeds": "69.08"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODAifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODAifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODAifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODEifQ",
+      "attributes": {
+        "customerPrice": "82.8",
+        "proceeds": "69.75"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODEifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODEifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODEifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODIifQ",
+      "attributes": {
+        "customerPrice": "83.0",
+        "proceeds": "69.92"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODIifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODIifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODIifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODMifQ",
+      "attributes": {
+        "customerPrice": "83.8",
+        "proceeds": "70.59"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODMifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODMifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODMifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODQifQ",
+      "attributes": {
+        "customerPrice": "84.0",
+        "proceeds": "70.76"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODQifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODQifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODQifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODUifQ",
+      "attributes": {
+        "customerPrice": "84.8",
+        "proceeds": "71.44"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODUifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODUifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODUifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODYifQ",
+      "attributes": {
+        "customerPrice": "85.0",
+        "proceeds": "71.61"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODYifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODYifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODYifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODcifQ",
+      "attributes": {
+        "customerPrice": "85.8",
+        "proceeds": "72.28"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODcifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODcifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODcifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODgifQ",
+      "attributes": {
+        "customerPrice": "86.0",
+        "proceeds": "72.45"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODgifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODgifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODgifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODkifQ",
+      "attributes": {
+        "customerPrice": "86.8",
+        "proceeds": "73.12"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODkifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODkifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxODkifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTAifQ",
+      "attributes": {
+        "customerPrice": "87.0",
+        "proceeds": "73.29"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTAifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTAifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTAifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTEifQ",
+      "attributes": {
+        "customerPrice": "87.8",
+        "proceeds": "73.96"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTEifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTEifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTEifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTIifQ",
+      "attributes": {
+        "customerPrice": "88.0",
+        "proceeds": "74.13"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTIifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTIifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTIifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTMifQ",
+      "attributes": {
+        "customerPrice": "88.8",
+        "proceeds": "74.81"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTMifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTMifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTMifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTQifQ",
+      "attributes": {
+        "customerPrice": "89.0",
+        "proceeds": "74.98"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTQifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTQifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTQifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTUifQ",
+      "attributes": {
+        "customerPrice": "89.8",
+        "proceeds": "75.65"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTUifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTUifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTUifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTYifQ",
+      "attributes": {
+        "customerPrice": "89.9",
+        "proceeds": "75.73"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTYifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTYifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTYifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTcifQ",
+      "attributes": {
+        "customerPrice": "90.0",
+        "proceeds": "75.82"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTcifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTcifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTcifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTgifQ",
+      "attributes": {
+        "customerPrice": "90.8",
+        "proceeds": "76.49"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTgifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTgifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTgifQ"
+      }
+    },
+    {
+      "type": "appPricePoints",
+      "id": "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTkifQ",
+      "attributes": {
+        "customerPrice": "91.0",
+        "proceeds": "76.66"
+      },
+      "relationships": {
+        "equalizations": {
+          "links": {
+            "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTkifQ/relationships/equalizations",
+            "related": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTkifQ/equalizations"
+          }
+        },
+        "territory": {
+          "data": {
+            "type": "territories",
+            "id": "CHN"
+          }
+        }
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v3/appPricePoints/eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAxOTkifQ"
+      }
+    }
+  ],
+  "included": [
+    {
+      "type": "territories",
+      "id": "CHN",
+      "attributes": {
+        "currency": "CNY"
+      },
+      "links": {
+        "self": "https://api.appstoreconnect.apple.com/v1/territories/CHN"
+      }
+    }
+  ],
+  "links": {
+    "self": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/appPricePoints?include=territory&filter%5Bterritory%5D=CHN&limit=200",
+    "next": "https://api.appstoreconnect.apple.com/v1/apps/1240856775/appPricePoints?cursor=AMg.AM99C8s&include=territory&filter%5Bterritory%5D=CHN&limit=200"
+  },
+  "meta": {
+    "paging": {
+      "total": 801,
+      "limit": 200
+    }
+  }
+}

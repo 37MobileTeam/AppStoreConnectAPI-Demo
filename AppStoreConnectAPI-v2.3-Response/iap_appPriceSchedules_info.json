@@ -1,0 +1,240 @@
+{
+    "data": {
+        "type": "inAppPurchasePriceSchedules",
+        "id": "6444653105",
+        "relationships": {
+            "baseTerritory": {
+                "data": {
+                    "type": "territories",
+                    "id": "CHN"
+                },
+                "links": {
+                    "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchasePriceSchedules/6444653105/relationships/baseTerritory",
+                    "related": "https://api.appstoreconnect.apple.com/v1/inAppPurchasePriceSchedules/6444653105/baseTerritory"
+                }
+            },
+            "manualPrices": {
+                "meta": {
+                    "paging": {
+                        "total": 1,
+                        "limit": 10
+                    }
+                },
+                "data": [
+                    {
+                        "type": "inAppPurchasePrices",
+                        "id": "eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJDSE4iLCJwIjoiMSIsInNkIjowLjAsImVkIjowLjB9"
+                    }
+                ],
+                "links": {
+                    "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchasePriceSchedules/6444653105/relationships/manualPrices",
+                    "related": "https://api.appstoreconnect.apple.com/v1/inAppPurchasePriceSchedules/6444653105/manualPrices"
+                }
+            },
+            "automaticPrices": {
+                "meta": {
+                    "paging": {
+                        "total": 348,
+                        "limit": 10
+                    }
+                },
+                "data": [
+                    {
+                        "type": "inAppPurchasePrices",
+                        "id": "eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJBRkciLCJwIjoiMSIsInNkIjowLjAsImVkIjoxNjgzNjE1NjAwLjAwMDAwMDAwMH0"
+                    },
+                    {
+                        "type": "inAppPurchasePrices",
+                        "id": "eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJBRkciLCJwIjoiMTAwMTAiLCJzZCI6MTY4MzYxNTYwMC4wMDAwMDAwMDAsImVkIjowLjB9"
+                    },
+                    {
+                        "type": "inAppPurchasePrices",
+                        "id": "eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJBR08iLCJwIjoiMSIsInNkIjowLjAsImVkIjoxNjgzNjE1NjAwLjAwMDAwMDAwMH0"
+                    },
+                    {
+                        "type": "inAppPurchasePrices",
+                        "id": "eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJBR08iLCJwIjoiMTAwMTAiLCJzZCI6MTY4MzYxNTYwMC4wMDAwMDAwMDAsImVkIjowLjB9"
+                    },
+                    {
+                        "type": "inAppPurchasePrices",
+                        "id": "eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJBSUEiLCJwIjoiMSIsInNkIjowLjAsImVkIjoxNjgzNjE1NjAwLjAwMDAwMDAwMH0"
+                    },
+                    {
+                        "type": "inAppPurchasePrices",
+                        "id": "eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJBSUEiLCJwIjoiMTAwMTAiLCJzZCI6MTY4MzYxNTYwMC4wMDAwMDAwMDAsImVkIjowLjB9"
+                    },
+                    {
+                        "type": "inAppPurchasePrices",
+                        "id": "eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJBTEIiLCJwIjoiMSIsInNkIjowLjAsImVkIjoxNjgzNjE1NjAwLjAwMDAwMDAwMH0"
+                    },
+                    {
+                        "type": "inAppPurchasePrices",
+                        "id": "eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJBTEIiLCJwIjoiMTAwMTAiLCJzZCI6MTY4MzYxNTYwMC4wMDAwMDAwMDAsImVkIjowLjB9"
+                    },
+                    {
+                        "type": "inAppPurchasePrices",
+                        "id": "eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJBUkUiLCJwIjoiMSIsInNkIjowLjAsImVkIjoxNjgzNjE1NjAwLjAwMDAwMDAwMH0"
+                    },
+                    {
+                        "type": "inAppPurchasePrices",
+                        "id": "eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJBUkUiLCJwIjoiMTAwMDgiLCJzZCI6MTY4MzYxNTYwMC4wMDAwMDAwMDAsImVkIjowLjB9"
+                    }
+                ],
+                "links": {
+                    "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchasePriceSchedules/6444653105/relationships/automaticPrices",
+                    "related": "https://api.appstoreconnect.apple.com/v1/inAppPurchasePriceSchedules/6444653105/automaticPrices"
+                }
+            }
+        },
+        "links": {
+            "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchasePriceSchedules/6444653105"
+        }
+    },
+    "included": [
+        {
+            "type": "territories",
+            "id": "CHN",
+            "attributes": {
+                "currency": "CNY"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/CHN"
+            }
+        },
+        {
+            "type": "inAppPurchasePrices",
+            "id": "eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJDSE4iLCJwIjoiMSIsInNkIjowLjAsImVkIjowLjB9",
+            "attributes": {
+                "startDate": null,
+                "endDate": null,
+                "manual": true
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchasePrices/eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJDSE4iLCJwIjoiMSIsInNkIjowLjAsImVkIjowLjB9"
+            }
+        },
+        {
+            "type": "inAppPurchasePrices",
+            "id": "eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJBRkciLCJwIjoiMSIsInNkIjowLjAsImVkIjoxNjgzNjE1NjAwLjAwMDAwMDAwMH0",
+            "attributes": {
+                "startDate": null,
+                "endDate": "2023-05-09",
+                "manual": false
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchasePrices/eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJBRkciLCJwIjoiMSIsInNkIjowLjAsImVkIjoxNjgzNjE1NjAwLjAwMDAwMDAwMH0"
+            }
+        },
+        {
+            "type": "inAppPurchasePrices",
+            "id": "eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJBRkciLCJwIjoiMTAwMTAiLCJzZCI6MTY4MzYxNTYwMC4wMDAwMDAwMDAsImVkIjowLjB9",
+            "attributes": {
+                "startDate": "2023-05-09",
+                "endDate": null,
+                "manual": false
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchasePrices/eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJBRkciLCJwIjoiMTAwMTAiLCJzZCI6MTY4MzYxNTYwMC4wMDAwMDAwMDAsImVkIjowLjB9"
+            }
+        },
+        {
+            "type": "inAppPurchasePrices",
+            "id": "eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJBR08iLCJwIjoiMSIsInNkIjowLjAsImVkIjoxNjgzNjE1NjAwLjAwMDAwMDAwMH0",
+            "attributes": {
+                "startDate": null,
+                "endDate": "2023-05-09",
+                "manual": false
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchasePrices/eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJBR08iLCJwIjoiMSIsInNkIjowLjAsImVkIjoxNjgzNjE1NjAwLjAwMDAwMDAwMH0"
+            }
+        },
+        {
+            "type": "inAppPurchasePrices",
+            "id": "eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJBR08iLCJwIjoiMTAwMTAiLCJzZCI6MTY4MzYxNTYwMC4wMDAwMDAwMDAsImVkIjowLjB9",
+            "attributes": {
+                "startDate": "2023-05-09",
+                "endDate": null,
+                "manual": false
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchasePrices/eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJBR08iLCJwIjoiMTAwMTAiLCJzZCI6MTY4MzYxNTYwMC4wMDAwMDAwMDAsImVkIjowLjB9"
+            }
+        },
+        {
+            "type": "inAppPurchasePrices",
+            "id": "eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJBSUEiLCJwIjoiMSIsInNkIjowLjAsImVkIjoxNjgzNjE1NjAwLjAwMDAwMDAwMH0",
+            "attributes": {
+                "startDate": null,
+                "endDate": "2023-05-09",
+                "manual": false
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchasePrices/eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJBSUEiLCJwIjoiMSIsInNkIjowLjAsImVkIjoxNjgzNjE1NjAwLjAwMDAwMDAwMH0"
+            }
+        },
+        {
+            "type": "inAppPurchasePrices",
+            "id": "eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJBSUEiLCJwIjoiMTAwMTAiLCJzZCI6MTY4MzYxNTYwMC4wMDAwMDAwMDAsImVkIjowLjB9",
+            "attributes": {
+                "startDate": "2023-05-09",
+                "endDate": null,
+                "manual": false
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchasePrices/eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJBSUEiLCJwIjoiMTAwMTAiLCJzZCI6MTY4MzYxNTYwMC4wMDAwMDAwMDAsImVkIjowLjB9"
+            }
+        },
+        {
+            "type": "inAppPurchasePrices",
+            "id": "eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJBTEIiLCJwIjoiMSIsInNkIjowLjAsImVkIjoxNjgzNjE1NjAwLjAwMDAwMDAwMH0",
+            "attributes": {
+                "startDate": null,
+                "endDate": "2023-05-09",
+                "manual": false
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchasePrices/eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJBTEIiLCJwIjoiMSIsInNkIjowLjAsImVkIjoxNjgzNjE1NjAwLjAwMDAwMDAwMH0"
+            }
+        },
+        {
+            "type": "inAppPurchasePrices",
+            "id": "eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJBTEIiLCJwIjoiMTAwMTAiLCJzZCI6MTY4MzYxNTYwMC4wMDAwMDAwMDAsImVkIjowLjB9",
+            "attributes": {
+                "startDate": "2023-05-09",
+                "endDate": null,
+                "manual": false
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchasePrices/eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJBTEIiLCJwIjoiMTAwMTAiLCJzZCI6MTY4MzYxNTYwMC4wMDAwMDAwMDAsImVkIjowLjB9"
+            }
+        },
+        {
+            "type": "inAppPurchasePrices",
+            "id": "eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJBUkUiLCJwIjoiMSIsInNkIjowLjAsImVkIjoxNjgzNjE1NjAwLjAwMDAwMDAwMH0",
+            "attributes": {
+                "startDate": null,
+                "endDate": "2023-05-09",
+                "manual": false
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchasePrices/eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJBUkUiLCJwIjoiMSIsInNkIjowLjAsImVkIjoxNjgzNjE1NjAwLjAwMDAwMDAwMH0"
+            }
+        },
+        {
+            "type": "inAppPurchasePrices",
+            "id": "eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJBUkUiLCJwIjoiMTAwMDgiLCJzZCI6MTY4MzYxNTYwMC4wMDAwMDAwMDAsImVkIjowLjB9",
+            "attributes": {
+                "startDate": "2023-05-09",
+                "endDate": null,
+                "manual": false
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchasePrices/eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJBUkUiLCJwIjoiMTAwMDgiLCJzZCI6MTY4MzYxNTYwMC4wMDAwMDAwMDAsImVkIjowLjB9"
+            }
+        }
+    ],
+    "links": {
+        "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchasePriceSchedules/6444653105?include=automaticPrices%2CmanualPrices%2CbaseTerritory"
+    }
+}

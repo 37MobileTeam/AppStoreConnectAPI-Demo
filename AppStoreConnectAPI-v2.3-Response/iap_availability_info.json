@@ -1,0 +1,117 @@
+{
+    "data": {
+        "type": "inAppPurchaseAvailabilities",
+        "id": "6444653105",
+        "attributes": {
+            "availableInNewTerritories": false
+        },
+        "relationships": {
+            "availableTerritories": {
+                "meta": {
+                    "paging": {
+                        "total": 6,
+                        "limit": 10
+                    }
+                },
+                "data": [
+                    {
+                        "type": "territories",
+                        "id": "KOR"
+                    },
+                    {
+                        "type": "territories",
+                        "id": "HKG"
+                    },
+                    {
+                        "type": "territories",
+                        "id": "CHN"
+                    },
+                    {
+                        "type": "territories",
+                        "id": "TWN"
+                    },
+                    {
+                        "type": "territories",
+                        "id": "JPN"
+                    },
+                    {
+                        "type": "territories",
+                        "id": "MAC"
+                    }
+                ],
+                "links": {
+                    "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchaseAvailabilities/6444653105/relationships/availableTerritories",
+                    "related": "https://api.appstoreconnect.apple.com/v1/inAppPurchaseAvailabilities/6444653105/availableTerritories"
+                }
+            }
+        },
+        "links": {
+            "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchaseAvailabilities/6444653105"
+        }
+    },
+    "included": [
+        {
+            "type": "territories",
+            "id": "KOR",
+            "attributes": {
+                "currency": "KRW"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/KOR"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "HKG",
+            "attributes": {
+                "currency": "HKD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/HKG"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "CHN",
+            "attributes": {
+                "currency": "CNY"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/CHN"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "TWN",
+            "attributes": {
+                "currency": "TWD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/TWN"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "JPN",
+            "attributes": {
+                "currency": "JPY"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/JPN"
+            }
+        },
+        {
+            "type": "territories",
+            "id": "MAC",
+            "attributes": {
+                "currency": "USD"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/territories/MAC"
+            }
+        }
+    ],
+    "links": {
+        "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchaseAvailabilities/6444653105?include=availableTerritories"
+    }
+}

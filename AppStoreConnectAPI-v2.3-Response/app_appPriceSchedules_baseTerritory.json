@@ -1,0 +1,15 @@
+{
+    "data": {
+        "type": "territories",
+        "id": "CHN",
+        "attributes": {
+            "currency": "CNY"
+        },
+        "links": {
+            "self": "https://api.appstoreconnect.apple.com/v1/territories/CHN"
+        }
+    },
+    "links": {
+        "self": "https://api.appstoreconnect.apple.com/v1/appPriceSchedules/1240856775/baseTerritory"
+    }
+}
