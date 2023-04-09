@@ -408,17 +408,18 @@ def iap_appPriceSchedules_baseTerritory(app_iap_id):
 def iap_appPriceSchedules_create(body):
 	url = 'https://api.appstoreconnect.apple.com/v1/inAppPurchasePriceSchedules'
 	post(url, body)
-	
-	
-	
-base_territory_id = "CHN"
-base_territory_id = "HKG"
-base_territory_id = "AFG"
-iap_price_id = "随意名字，用于区别一个价格计划"
-iap_price_point_id = "eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJDSE4iLCJwIjoiMTAwMDEifQ" # CNY￥ 1.00
-iap_price_point_id = "eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJDSE4iLCJwIjoiMTAwMDUifQ" # CNY￥ 2.50
-iap_price_point_id = "eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJDSE4iLCJwIjoiMTAxMDYifQ" # CNY￥ 47.00
 
+
+#基准国家
+base_territory_id = "CHN"
+base_territory_id2 = "HKG"
+
+iap_price_id = "随意名字，用于区别一个价格计划"
+# 全球均衡价格
+iap_price_point_id = "eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJDSE4iLCJwIjoiMTAwMDEifQ" # CNY￥ 1.00
+iap_price_point_id2 = "eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJDSE4iLCJwIjoiMTAwMDUifQ" # CNY￥ 2.50
+# 自定价格
+iap_price_point_id3 = "eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJIS0ciLCJwIjoiMTAwMTUifQ" # HKD $16.00
 
 body = {
 	'data': {
@@ -429,22 +430,26 @@ body = {
 					'type': 'inAppPurchases'
 				}
 			},
-#			'baseTerritory': {
-#				'data': {
-#					'id': f"{base_territory_id}",
-#					'type': 'territories'
-#				}
-#			},
+			'baseTerritory': {
+				'data': {
+					'id': f"{base_territory_id}",
+					'type': 'territories'
+				}
+			},
 			'manualPrices': {
 				'data': [
 					{
 						'id': f'{iap_price_id}',
 						'type': 'inAppPurchasePrices'
 					},
-#					{
-#						'id': f'{iap_price_id}2',
-#						'type': 'inAppPurchasePrices'
-#					}
+					{
+						'id': f"{iap_price_id}2",
+						'type': 'inAppPurchasePrices'
+					},
+					{
+						'id': f"{iap_price_id}3",
+						'type': 'inAppPurchasePrices'
+					}
 				]
 			}
 		},
@@ -455,7 +460,7 @@ body = {
 			'id': f'{iap_price_id}',
 			'type': 'inAppPurchasePrices',
 			'attributes': {
-				'startDate': None, # '2023-04-14',
+				'startDate': '2023-04-25',
 				'endDate': None
 			},
 			'relationships': {
@@ -474,54 +479,38 @@ body = {
 			}
 		},
 		{
-			'id': f"{iap_price_id}",
-			'type': 'territories'
-		},
-		# {
-		# 	'id': f"{iap_price_id}2",
-		# 	'type': 'territories'
-		# }
-	]
-}
-
-#iap_appPriceSchedules_create(body)
-
-
-'''
-更新均衡价格的请求体：
-```
-body = {
-	'data': {
-		'relationships': {
-			'inAppPurchase': {
-				'data': {
-					'id': f"{app_iap_id}",
-					'type': 'inAppPurchases'
-				}
-			},
-			'manualPrices': {
-				'data': [
-					{
-						'id': f'{iap_price_id}',
-						'type': 'inAppPurchasePrices'
-					}
-				]
-			}
-		},
-		'type': 'inAppPurchasePriceSchedules'
-	},
-	'included': [
-		{
-			'id': f'{iap_price_id}',
+			'id': f'{iap_price_id}2',
 			'type': 'inAppPurchasePrices',
 			'attributes': {
-				'startDate': None, # '2023-04-14',
+				'startDate': None,
+				'endDate': '2023-04-25'
+			},
+			'relationships': {
+				'inAppPurchasePricePoint': {
+					'data': {
+						'id': f"{iap_price_point_id2}",
+						'type': 'inAppPurchasePricePoints'
+					}
+				},
+				'inAppPurchaseV2': {
+					'data': {
+						'id': f"{app_iap_id}",
+						'type': 'inAppPurchases'
+					}
+				}
+			}
+		},
+		{
+			'id': f'{iap_price_id}3',
+			'type': 'inAppPurchasePrices',
+			'attributes': {
+				'startDate': None,
 				'endDate': None
 			},
 			'relationships': {
 				'inAppPurchasePricePoint': {
 					'data': {
-						'id': f"{iap_price_point_id}",
+						'id': f"{iap_price_point_id3}",
 						'type': 'inAppPurchasePricePoints'
 					}
 				},
@@ -535,9 +524,9 @@ body = {
 		}
 	]
 }
-```
 
-'''
+#iap_appPriceSchedules_create(body)
+
 
 
 # 22. 获取某个 app 的销售范围（App 级别）
