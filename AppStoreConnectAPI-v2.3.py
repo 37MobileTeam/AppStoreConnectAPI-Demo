@@ -264,14 +264,18 @@ def app_appPriceSchedules_create(body):
 	url = 'https://api.appstoreconnect.apple.com/v1/appPriceSchedules'
 	post(url, body)
 
-
-
+#基准国家
 base_territory_id = "CHN"
-base_territory_id = "HKG"
-manual_prices_id = "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDEifQ"
-manual_prices_id2 = "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMTUifQ"
-iap_price_point_id = "eyJzIjoiNjQ0NDY1MzEwNSIsInQiOiJDSE4iLCJwIjoiMTAwMDUifQ" # CNY￥ 2.50
+base_territory_id2 = "HKG"
 
+app_price_id = "随意名字，用于区别一个价格计划"
+# 全球均衡价格
+app_price_point_id = "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDEifQ" # CNY￥ 1.00
+app_price_point_id2 = "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJDSE4iLCJwIjoiMTAwMDUifQ" # CNY￥ 2.50
+# 自定价格
+app_price_point_id3 = "eyJzIjoiMTI0MDg1Njc3NSIsInQiOiJIS0ciLCJwIjoiMTAwMTUifQ" # HKD $16.00
+
+# 请求体
 body = {
 	'data': {
 		'relationships': {
@@ -290,7 +294,15 @@ body = {
 			'manualPrices': {
 				'data': [
 					{
-						'id': f"{manual_prices_id}",
+						'id': f"{app_price_id}",
+						'type': 'appPrices'
+					},
+					{
+						'id': f"{app_price_id}2",
+						'type': 'appPrices'
+					},
+					{
+						'id': f"{app_price_id}3",
 						'type': 'appPrices'
 					}
 				]
@@ -300,11 +312,39 @@ body = {
 	},
 	'included': [
 		{
-			'id': f'{base_territory_id}',
-			'type': 'territories',
+			'id': f'{app_price_id}',
+			'type': 'appPrices',
+			'attributes': {
+				'startDate': '2023-04-25',
+				'endDate': None
+			},
+			'relationships': {
+				'appPricePoint': {
+					'data': {
+						'id': f"{app_price_point_id}",
+						'type': 'appPricePoints'
+					}
+				}
+			}
 		},
 		{
-			'id': f'{manual_prices_id}',
+			'id': f'{app_price_id}2',
+			'type': 'appPrices',
+			'attributes': {
+				'startDate': None,
+				'endDate': '2023-04-25'
+			},
+			'relationships': {
+				'appPricePoint': {
+					'data': {
+						'id': f"{app_price_point_id2}",
+						'type': 'appPricePoints'
+					}
+				}
+			}
+		},
+		{
+			'id': f'{app_price_id}3',
 			'type': 'appPrices',
 			'attributes': {
 				'startDate': None, # '2023-04-14',
@@ -313,7 +353,7 @@ body = {
 			'relationships': {
 				'appPricePoint': {
 					'data': {
-						'id': f"{manual_prices_id}",
+						'id': f"{app_price_point_id3}",
 						'type': 'appPricePoints'
 					}
 				}
@@ -322,30 +362,7 @@ body = {
 	]
 }
 
-app_appPriceSchedules_create(body)
-
-
-'''
-
-TODO: 不清楚那里的错误！！！
-
-```
-409
-{
-  "errors" : [ {
-    "id" : "94ac817a-2fed-43a0-b746-69105714d6a3",
-    "status" : "409",
-    "code" : "ENTITY_ERROR.RELATIONSHIP.REQUIRED",
-    "title" : "The provided entity is missing a required relationship",
-    "detail" : "You must provide a value for the relationship 'appPricePoint' with this request",
-    "source" : {
-      "pointer" : "/included/0/relationships/appPricePoint"
-    }
-  } ]
-}
-```
-
-'''
+#app_appPriceSchedules_create(body)
 
 
 
