@@ -1,9 +1,9 @@
 # App Store Connect API Demo
 App Store Connect API Demo code with Python
 
-管理工具：
+自动化工具：
 
-- [37iOS/AppleParty: macOS App for App Store Connect to Improve Processing Efficiency and Enjoy the Party.](https://github.com/37iOS/AppleParty)
+- [37iOS/AppleParty - for Swift](https://github.com/37iOS/AppleParty)
 
 
 使用参考：
